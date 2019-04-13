@@ -1,0 +1,33 @@
+{
+    "name": "angular-development-extensions-pack",
+    "displayName": "Angular Development Extensions Pack",
+    "description": "A set of useful extensions for Angular projects.",
+    "version": "1.0.0",
+    "publisher": "ricardo-emerson",
+    "icon": "extension-icon.png",
+    "repository": "https://github.com/ricardoemerson/angular-development-extensions-pack",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "keywords": [
+        "development",
+        "Angular"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "Angular.ng-template",
+        "AngularDoc.angulardoc-vscode",
+        "infinity1207.angular2-switcher",
+        "johnpapa.Angular2",
+        "Mikael.Angular-BeastCode",
+        "natewallace.angular2-inline",
+        "sanderledegen.angular-follow-selector",
+        "UVBrain.Angular2",
+        "vismalietuva.vscode-angular-support"
+    ],
+    "__metadata": {
+		"publisherDisplayName": "Ricardo Emerson"
+	}
+}
