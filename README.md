@@ -1,6 +1,6 @@
-# VS Code Angular Development Extensions Pack
+# Angular Development Extensions Pack
 
-This extension pack packages some useful extensions for Angular development in VS Code.
+This extension package contains useful extensions for working with Angular in visual studio code.
 
 ### Extensions Included
 
